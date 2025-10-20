@@ -23,7 +23,7 @@ library(ape)
 # load files
 
 # base directory
-base_dir <- "/Users/petrucci/Documents/research/novick_petrucci/chapter3/"
+base_dir <- "/Users/petrucci/Documents/research/micromoths_idmethods/"
 
 # ids
 ids_raw <- read.delim(paste0(base_dir, "final_ids.csv"), sep = ",")
